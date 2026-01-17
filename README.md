@@ -21,4 +21,20 @@ It automatically reads emails on a daily basis, analyzes their content, and help
 - Automation scripts
 
 ---
+##  Project Structure
+SmartMail-Assistant/
+│
+├── src/
+│ ├── main.py
+│ └── demo.py
 
+
+---
+
+## ⚙️ How It Works
+1. Authenticates securely using Gmail API and OAuth 2.0.
+2. Reads emails automatically from the inbox.
+3. Processes email content using AI techniques.
+4. Extracts useful insights for better email management.
+
+----
